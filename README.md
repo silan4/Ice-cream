@@ -7,10 +7,10 @@
 
 # Technologies Used
 
-- - HTML
-- - CSS
-- - JAVASCRİPT
-- - UNIT TEST
+- HTML
+- CSS
+- JAVASCRİPT
+- UNIT TEST
 
 
 #   Libraries Used
