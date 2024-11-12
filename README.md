@@ -5,6 +5,12 @@
 
 ![](/public/icecream.gif)
 
+# Technologies Used
+
+- - HTML
+- - CSS
+- - JAVASCRİPT
+- - UNIT TEST
 
 
 #   Libraries Used
@@ -16,4 +22,4 @@
 - bootstrap
 
 
-# Ice-cream
+
